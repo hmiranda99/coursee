@@ -15,7 +15,7 @@ Com o foco em revisar CRUD em Laravel, fiz esse curso na Udemy. Feito o back-end
 
 ##
 ### Objetivo
-- Uma página de cursos.
+- Administração de cursos.
 - Somente ADM pode cadastrar cursos.
 - Ao cadastrar há uma opção para publicar o curso ou não.
 - Caso seja publicado, ele aparecerá na listagem disponível para os usuários.
