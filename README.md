@@ -1,6 +1,6 @@
 <div align="center">
 
-# Coursee
+# 📚 Coursee
 
 </div>
 
@@ -10,22 +10,22 @@ CRUD feito a totalmente em Laravel pelo curso da <a href="https://www.udemy.com/
 
 </div>
 
-### About
+### 📝 About
 Com o foco em revisar CRUD em Laravel, fiz esse curso na Udemy. Feito o back-end totalmente em Laravel e o front-end  com o framework <a href="https://materializecss.com/">Materialize</a>. Foi feito um layout simples, foi o foco era o Laravel.
 
 ##
-### Objetivo
-- Administração de cursos.
-- Somente ADM pode cadastrar cursos.
-- Ao cadastrar há uma opção para publicar o curso ou não.
-- Caso seja publicado, ele aparecerá na listagem disponível para os usuários.
-- Cadastro, listagem, update e delete dos cursos.
-- Sessão para o ADM.
-- Paginação de cursos.
-- Totalmente responsível.
+### 📌 Objetivo
+- 🆙 Administração de cursos.
+- 😎 Somente ADM pode cadastrar cursos.
+- ⁉️ Ao cadastrar há uma opção para publicar o curso ou não.
+- ✅ Caso seja publicado, ele aparecerá na listagem disponível para os usuários.
+- 🔝 Cadastro, listagem, update e delete dos cursos.
+- 🛗 Sessão para o ADM.
+- 📑 Paginação de cursos.
+- 📱 Totalmente responsível.
 
 ##
-### Skills
+### 🚀 Skills
 
 <div>
 
@@ -41,14 +41,18 @@ Com o foco em revisar CRUD em Laravel, fiz esse curso na Udemy. Feito o back-end
 </div>
 
 ##
-### Demo
+### 🎥 Demo
 
-#### Listagem para os usuários
+### 🥳 Listagem para os usuários
 https://user-images.githubusercontent.com/79329906/179293532-22385472-a19a-4be2-a816-689cdb33ed01.mp4
 
-#### Listagem para o ADM
+<br>
+
+### 😎 Listagem para o ADM
 https://user-images.githubusercontent.com/79329906/179293994-059c3c04-6615-43ff-8aa1-7981870c5aa8.mp4
 
-#### Editar curso
+<br>
+
+### ✏️ Editar curso
 https://user-images.githubusercontent.com/79329906/179294941-4147d046-aa8c-4822-bf59-8d405b81d28a.mp4
 
